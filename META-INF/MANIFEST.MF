@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: rascal_m3_metrics
+Bundle-SymbolicName: rascal_m3_metrics;singleton:=true
+Bundle-Version: 1.0.0
+Require-Bundle: org.eclipse.imp.pdb.values,
+ rascal,
+ rascal_eclipse;bundle-version="0.6.2"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

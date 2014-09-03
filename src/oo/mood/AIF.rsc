@@ -1,4 +1,4 @@
-module oo::MOOD::AIF
+module oo::mood::AIF
 
 extend oo::Main;
 import Set;

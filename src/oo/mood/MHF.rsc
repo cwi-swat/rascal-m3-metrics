@@ -1,4 +1,4 @@
-module oo::MOOD::MHF
+module oo::mood::MHF
 
 extend oo::Main;
 import Set;
